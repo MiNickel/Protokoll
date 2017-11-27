@@ -9,4 +9,12 @@ Zusammenfassung der ersten 17 Folien der dritten Vorlesung, Aufwand 1,5h
 Fragmente in Android Studio erstellt, Aufwand 1,5h
 ## 10.11.17
 Gruppenmeeting und Arbeit an Fragmenten, 3,5h
+## 17.11.17
+Gruppenmeeting und Arbeit an Fragmenten, 4h
+## 23.11.17
+PR zur Vorlesungszusammenfassung reviewed und Fehler kommentiert, 1h
+##24.11.17
+Gruppenmeeting und Arbeit an Fragmenten, 4h
+
+
 
