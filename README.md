@@ -13,8 +13,11 @@ Gruppenmeeting und Arbeit an Fragmenten, 3,5h
 Gruppenmeeting und Arbeit an Fragmenten, 4h
 ## 23.11.17
 PR zur Vorlesungszusammenfassung reviewed und Fehler kommentiert, 1h
-##24.11.17
+## 24.11.17
 Gruppenmeeting und Arbeit an Fragmenten, 4h
+## 28.11.17
+An Fragmenten weitergearbeitet, 1h
+
 
 
 
