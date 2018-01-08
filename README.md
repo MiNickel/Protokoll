@@ -27,6 +27,8 @@ Gruppenmeeting und Arbeit an Fragmenten und Travis CI, 4h
 Arbeit an Travis CI, 3h
 ## 05.01.18
 Gruppenmeeting und Arbeit an Fragmenten und Travis CI, 4h
+## 07.01.18
+Zusammenfassung Vorlesung 13, 1h
 
 
 
