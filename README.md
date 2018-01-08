@@ -17,6 +17,17 @@ PR zur Vorlesungszusammenfassung reviewed und Fehler kommentiert, 1h
 Gruppenmeeting und Arbeit an Fragmenten, 4h
 ## 28.11.17
 An Fragmenten weitergearbeitet, 1h
+## 01.12.17
+Gruppenmeeting und Arbeit an Fragmenten und Travis CI, 4h
+## 08.12.17
+Gruppenmeeting und Arbeit an Fragmenten und Travis CI, 4h
+## 15.12.17
+Gruppenmeeting und Arbeit an Fragmenten und Travis CI, 4h
+## 18.12.17
+Arbeit an Travis CI, 3h
+## 05.01.18
+Gruppenmeeting und Arbeit an Fragmenten und Travis CI, 4h
+
 
 
 
