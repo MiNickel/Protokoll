@@ -33,6 +33,8 @@ Zusammenfassung Vorlesung 13, 1h
 Gruppenmeeting, 4h
 ## 19.01.18
 Gruppenmeeting, 4h
+## 24.01.18
+Vorbereitung der Präsentation, 2 1/2h
 ## 25.01.18
 letzter Schliff an Travis CI, 1h
 ## 26.01.18
